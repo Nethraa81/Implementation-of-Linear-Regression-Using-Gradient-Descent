@@ -32,6 +32,12 @@ RegisterNumber: 24900193
 ## Output:
 ![linear regression using gradient descent](sam.png)
 
+![Screenshot 2024-10-24 215401](https://github.com/user-attachments/assets/01cb0593-678e-4d96-9c1d-5f506dc5327c)
+
+![Screenshot 2024-10-24 215427](https://github.com/user-attachments/assets/4fa82eab-879d-4b52-8ff3-79abb315e8c7)
+
+![Screenshot 2024-10-24 215450](https://github.com/user-attachments/assets/c033cbaa-f6bc-4f03-be1a-aac499415b1b)
+
 
 ![Screenshot 2024-10-24 203034](https://github.com/user-attachments/assets/ddd2b35d-72b7-4b22-9fe5-d4ca1f088324)
 
